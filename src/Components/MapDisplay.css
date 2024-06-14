@@ -1,0 +1,10 @@
+.map-full-container {
+    width: 700px;
+    height: 560px;
+    object-fit: cover;
+}
+
+.map-show {
+    height: 100%;
+    width: 100%;
+}
